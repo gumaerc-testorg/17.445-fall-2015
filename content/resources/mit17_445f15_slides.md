@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 20d4ac9c-5760-cc69-de2b-be1b78a49c32
 resourcetype: Document
 title: First Meeting Lecture Slides
 uid: 0fd739df-ef3b-f3b7-bc42-684c17463992

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b5aec66f-8bf3-96c9-5006-23bd10e76d46
 resourcetype: Document
 title: The Distribution of Authority in Cyberspace
 uid: c6ad3b8e-d6b0-9f9d-46ed-6212b1111692
