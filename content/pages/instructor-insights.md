@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 53f2c566-250e-e705-b6f6-b48bcc394238
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _17.445/17.446 International Relations Theory in the Cyber Age_ as it was taught by Professor Nazli Choucri in Fall 2015.
 
@@ -16,19 +17,17 @@ This course examined cyber dynamics and processes in international relations fro
 
 Students taking the graduate version were expected to pursue the subject in greater depth through reading and individual research.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Understand structures and processes shaping international relations
-*   Explore theories of international relations
-*   Gain an introduction to strategic issues in international relations in the cyber age
+- Understand structures and processes shaping international relations
+- Explore theories of international relations
+- Gain an introduction to strategic issues in international relations in the cyber age
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "Too much lecture without opportunities for students to engage in discussions about the various topics does not support active seminar participation." "— Nazli Choucri" >}}
 
@@ -42,8 +41,7 @@ I've learned that too much lecture without opportunities for students to engage 
 
 I've also asked students not to use laptops in class. Not using laptops seems to help students focus on our conversations.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -51,17 +49,18 @@ There are no prerequisites for this course for undergrads. Graduate students nee
 
 ### Requirements Satisfied
 
-*   HASS-S ![](/images/educator/icon-question-hass-s.png)
-*   17.445/17.446 can be applied toward a [Bachelor of Science in Political Science](http://catalog.mit.edu/degree-charts/political-science-course-17/), a [Master of Science in Political Science](http://web.mit.edu/polisci/graduate/masters.html), or a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html), but is not required.
+- HASS-S ![](/images/educator/icon-question-hass-s.png)
+- 17.445/17.446 can be applied toward a [Bachelor of Science in Political Science](http://catalog.mit.edu/degree-charts/political-science-course-17/), a [Master of Science in Political Science](https://polisci.mit.edu/graduate/masters), or a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html), but is not required.
 
 ### Offered
 
 Every fall semester
 
-Student Information
--------------------
+## Student Information
 
-![Less than 10 students took this course when it was offered in Fall 2015.]({{< resource_file c346900e-036f-9f3d-45e7-639ca8b4ada0 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -73,8 +72,7 @@ Variety of majors
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -91,20 +89,17 @@ In assessing students’ writing, Professor Choucri focuses first on content and
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Seminar
--------
+### Seminar
 
-*   Met once per week for 2 hours per session; 13 sessions total; mandatory attendance.
-*   All students were expected to complete the readings and participate in class discussions.
+- Met once per week for 2 hours per session; 13 sessions total; mandatory attendance.
+- All students were expected to complete the readings and participate in class discussions.
 
-Out of Class
-------------
+### Out of Class
 
-*   Readings in preparation for class sessions
-*   One midterm essay
-*   One final essay
+- Readings in preparation for class sessions
+- One midterm essay
+- One final essay
