@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the midterm and final essays for the
+  course, and an example of student work for the final essay.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b5aec66f-8bf3-96c9-5006-23bd10e76d46
 ---
@@ -82,4 +87,4 @@ Student Example
 
 The following final essay appears courtesy of a MIT student and is anonymous upon request.
 
-"[The Distribution of Authority in Cyberspace (PDF)]({{< baseurl >}}/resources/mit17_445f15_essay1)."
+"{{% resource_link c6ad3b8e-d6b0-9f9d-46ed-6212b1111692 "The Distribution of Authority in Cyberspace (PDF)" %}}."
