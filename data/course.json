@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2015",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -34,8 +35,10 @@
     "website": "17-445-international-relations-theory-in-the-cyber-age-fall-2015"
   },
   "learning_resource_types": [
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "292bb844-3eb8-414a-8136-df007b589169",
+  "site_uid": "58da8e4a-babf-492f-8ea7-f7265c82c49f",
+  "site_short_id": "17.445-fall-2015",
   "title": "Course Metadata"
 }
