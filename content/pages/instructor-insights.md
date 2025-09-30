@@ -50,7 +50,7 @@ There are no prerequisites for this course for undergrads. Graduate students nee
 ### Requirements Satisfied
 
 - HASS-S ![](/images/educator/icon-question-hass-s.png)
-- 17.445/17.446 can be applied toward a [Bachelor of Science in Political Science](http://catalog.mit.edu/degree-charts/political-science-course-17/), a [Master of Science in Political Science](https://polisci.mit.edu/graduate/masters), or a [PhD in Political Science](http://web.mit.edu/polisci/graduate/phd.html), but is not required.
+- 17.445/17.446 can be applied toward a {{% resource_link "81e80e85-5962-4f75-bca3-459ca1019668" "Bachelor of Science in Political Science" %}}, a {{% resource_link "2d8915c2-a185-420c-a88d-97b0182e3530" "Master of Science in Political Science" %}}, or a {{% resource_link "bfdec94d-be95-4d8b-b64d-21fcfa531538" "PhD in Political Science" %}}, but is not required.
 
 ### Offered
 
