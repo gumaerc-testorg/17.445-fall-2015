@@ -36,9 +36,9 @@ Graduate students can substitute a research paper for the final essay.
 
 The following books are required reading:
 
-{{% resource_link "092ce847-6959-4f24-bb9a-c0ffd63d0ec0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli. *Cyberpolitics in International Relations*. MIT Press, 2012. ISBN: 9780262517690. \[Preview with {{% resource_link "c569f242-130f-4f94-a140-9f8e182f3283" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. *Cyberpolitics in International Relations*. MIT Press, 2012. ISBN: 9780262517690. \[Preview with [Google Books](http://books.google.com/books?id=N7iNQSj-X84C&pg=PAfrontcover)\]
 
-Nye, Jr., Joseph S. *The Future of Power*. PublicAffairs, 2011. ISBN: 9781610390699. \[Preview with {{% resource_link "326f2e30-d9a5-45ce-9596-26a1d5bee6af" "Google Books" %}}\]
+Nye, Jr., Joseph S. *The Future of Power*. PublicAffairs, 2011. ISBN: 9781610390699. \[Preview with [Google Books](http://books.google.com/books?id=u3K6uLzj5WAC&pg=PAfrontcover)\]
 
 Additional readings can be found in the {{% resource_link 62a30ee0-0ac6-5922-08e9-45df9ca39d6a "Readings" %}} section.
 
