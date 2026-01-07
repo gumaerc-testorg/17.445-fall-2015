@@ -9,13 +9,13 @@ ocw_type: CourseSection
 title: Readings
 uid: 62a30ee0-0ac6-5922-08e9-45df9ca39d6a
 ---
-\[B\] = {{% resource_link "aeac8ad1-d0fd-4627-b8b9-f808fd0dd5d5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Braman, Sandra. *Change of State: Information, Policy, and Power*. MIT Press, 2009. ISBN: 9780262513241. \[Preview with {{% resource_link "1364ae00-2a1b-4a0c-8b41-67a60fc1e4f9" "Google Books" %}}\]
+\[B\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262513241) Braman, Sandra. *Change of State: Information, Policy, and Power*. MIT Press, 2009. ISBN: 9780262513241. \[Preview with [Google Books](http://books.google.com/books?id=vY36AQAAQBAJ&pg=PAfrontcover)\]
 
-\[C\] = {{% resource_link "092ce847-6959-4f24-bb9a-c0ffd63d0ec0" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli. *Cyberpolitics in International Relations*. MIT Press, 2012. ISBN: 9780262517690. \[Preview with {{% resource_link "c569f242-130f-4f94-a140-9f8e182f3283" "Google Books" %}}\]
+\[C\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262517690) Choucri, Nazli. *Cyberpolitics in International Relations*. MIT Press, 2012. ISBN: 9780262517690. \[Preview with [Google Books](http://books.google.com/books?id=N7iNQSj-X84C&pg=PAfrontcover)\]
 
-\[CH\] = {{% resource_link "54dac7f4-b663-44df-b6ec-456d492c5968" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, ed. *Global Accord: Environmental Challenges and International Responses*. MIT Press, 1995. ISBN: 9780262531344. \[Preview with {{% resource_link "3f1da0c6-23b4-4c90-b8cc-4634aaf7c9ab" "Google Books" %}}\]
+\[CH\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Choucri, Nazli, ed. *Global Accord: Environmental Challenges and International Responses*. MIT Press, 1995. ISBN: 9780262531344. \[Preview with [Google Books](http://books.google.com/books?id=DG_7yHCNRI0C&pg=PAfrontcover)\]
 
-\[K\] = {{% resource_link "adbda213-c0c6-485a-b9cd-7e8517c71404" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Katzenstein, Peter J., Robert O. Keohane, and Stephen D. Krasner, eds. *Exploration and Contestation in the Study of World Politics*. MIT Press, 1999. ISBN: 9780262611442. \[Preview with {{% resource_link "dd25506b-dc63-4de9-9d7a-524bdb2e2625" "Google Books" %}}\]
+\[K\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611442) Katzenstein, Peter J., Robert O. Keohane, and Stephen D. Krasner, eds. *Exploration and Contestation in the Study of World Politics*. MIT Press, 1999. ISBN: 9780262611442. \[Preview with [Google Books](http://books.google.com/books?id=-6YTzbQDoHYC&pg=PAfrontcover)\]
 
 \[KE\] = Keohane, Robert O., ed. *Neorealism and Its Critics*. Columbia University Press, 1986. ISBN: 9780231063494.
 
@@ -25,11 +25,11 @@ uid: 62a30ee0-0ac6-5922-08e9-45df9ca39d6a
 
 \[MI\] = ———. *Essential Readings in World Politics*. 4th ed. W. W. Norton and Company, 2010. ISBN: 9780393935349.
 
-\[MU\] = {{% resource_link "3e8166f1-8042-443e-a2ed-e5e63773e11f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mueller, Milton L. *Networks and States: The Global Politics of Internet Governance*. MIT Press, 2010. ISBN: 9780262518574.
+\[MU\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262518574) Mueller, Milton L. *Networks and States: The Global Politics of Internet Governance*. MIT Press, 2010. ISBN: 9780262518574.
 
 \[N\] = North, Robert Carver. *War, Peace, Survival: Global Politics and Conceptual Synthesis*. Westview Press, 1990. ISBN: 9780813306827.
 
-\[NY\] = Nye, Jr., Joseph S. *The Future of Power*. PublicAffairs, 2011. ISBN: 9781610390699. \[Preview with {{% resource_link "326f2e30-d9a5-45ce-9596-26a1d5bee6af" "Google Books" %}}\]
+\[NY\] = Nye, Jr., Joseph S. *The Future of Power*. PublicAffairs, 2011. ISBN: 9781610390699. \[Preview with [Google Books](http://books.google.com/books?id=u3K6uLzj5WAC&pg=PAfrontcover)\]
 
 Note: The recommended readings are required for graduate students.
 
@@ -87,7 +87,7 @@ International Relations—Construction of Cyberspace
 
 \[NY\] Chapter 3: "Economic Power."
 
-{{% resource_link "210b27f4-c326-4547-8768-0bce5cda4435" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abbott, Kenneth W., and Duncan Snidal. "Hard and Soft Law in International Governance." In *Legalization and World Politics*. Edited by Judith L. Goldstein, Miles Kahler, et al. MIT Press, 2001. ISBN: 9780262571517. \[Preview with {{% resource_link "b36cfb41-47d6-4180-8f03-e0d69ed02408" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262571517) Abbott, Kenneth W., and Duncan Snidal. "Hard and Soft Law in International Governance." In *Legalization and World Politics*. Edited by Judith L. Goldstein, Miles Kahler, et al. MIT Press, 2001. ISBN: 9780262571517. \[Preview with [Google Books](http://books.google.com/books?id=Yv4T0jpMHBEC&pg=PA37#v=onepage)\]
 
 Jackson, Robert, and Georg Sørensen. "Why Study IR?" Chapter 1 in *Introduction to International Relations: Theories and Approaches*. 5th ed. Oxford University Press, 2013. ISBN: 9780199694747.
 
@@ -125,9 +125,9 @@ Jackson, Robert, and Georg Sørensen. "IR as an Academic Subject?" Chapter 2 in 
 
 ### Recommended
 
-Clark, David D. {{% resource_link "8bb30f62-2eff-4b25-9b4a-c4f6c5bfabe1" "\"An Insider's Guide to the Internet - Version 2.0, July 25, 2004.\" (PDF)" %}} Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology.
+Clark, David D. ["An Insider's Guide to the Internet - Version 2.0, July 25, 2004." (PDF)](http://groups.csail.mit.edu/ana/Publications/PubPDFs/An-Insiders-Guide-to-the-Internet.pdf) Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology.
 
-Kratochwil, Friedrich. "{{% resource_link "e8f3767f-c15b-4074-b5f7-a809fa26712b" "Of Systems, Boundaries, and Territoriality: An Inquiry into the Formation of the State" %}}." *World Politics* 39, no. 1 (1986): 27–52.
+Kratochwil, Friedrich. "[Of Systems, Boundaries, and Territoriality: An Inquiry into the Formation of the State](http://dx.doi.org/10.2307/2010297)." *World Politics* 39, no. 1 (1986): 27–52.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -147,9 +147,9 @@ Globalization and Emergent Dynamics
 
 \[NY\] Chapter 7: "Smart Power."
 
-Cerny, Philip G. "{{% resource_link "9664e392-78f7-4c75-8784-1baa1039f051" "Globalization and the Changing Logic of Collective Action" %}}." *International Organization* 49, no. 4 (1995): 595–625.
+Cerny, Philip G. "[Globalization and the Changing Logic of Collective Action](http://dx.doi.org/10.1017/S0020818300028459)." *International Organization* 49, no. 4 (1995): 595–625.
 
-Gourevitch, Peter. "{{% resource_link "6b49e3f4-a0ac-400f-a9e0-318d55ecd156" "The Second Image Reversed: The International Sources of Domestic Politics" %}}." *International Organization* 32, no. 4 (1978): 881–912.
+Gourevitch, Peter. "[The Second Image Reversed: The International Sources of Domestic Politics](http://www.jstor.org/stable/2706180)." *International Organization* 32, no. 4 (1978): 881–912.
 
 ### Recommended
 
@@ -161,9 +161,9 @@ Gourevitch, Peter. "{{% resource_link "6b49e3f4-a0ac-400f-a9e0-318d55ecd156" "Th
 
 \[KR\] Mansfield, Edward D. "The Concentration of Capabilities and International Trade."
 
-{{% resource_link "58e86ab8-986f-4694-a409-2cbc1b428042" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hess, Charlotte, and Elinor Ostrom, eds. "Introduction: An Interview of the Knowledge Commons." Chapter 1 in *Understanding Knowledge as a Commons: From Theory to Practice*. MIT Press, 2011. ISBN: 9780262516037.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516037) Hess, Charlotte, and Elinor Ostrom, eds. "Introduction: An Interview of the Knowledge Commons." Chapter 1 in *Understanding Knowledge as a Commons: From Theory to Practice*. MIT Press, 2011. ISBN: 9780262516037.
 
-{{% resource_link "58e86ab8-986f-4694-a409-2cbc1b428042" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "A Framework for Analyzing the Knowledge Commons." Chapter 3 in *Understanding Knowledge as a Commons: From Theory to Practice*. MIT Press, 2011. ISBN: 9780262516037.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516037) ———. "A Framework for Analyzing the Knowledge Commons." Chapter 3 in *Understanding Knowledge as a Commons: From Theory to Practice*. MIT Press, 2011. ISBN: 9780262516037.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part II: Theories of International Relations** 
@@ -185,7 +185,7 @@ Power and Security—Realism and Neo-Realism
 
 \[MI\] Snyder, Jack. "One World, Rival Theories."
 
-Grieco, Joseph M. "{{% resource_link "ba2d4bd3-8ac0-484a-b696-1edac97948ad" "Anarchy and the Limits of Cooperation: A Realist Critique of the Newest Liberal Institutionalism" %}}." *International Organization* 42, no. 3 (1988): 485–507.
+Grieco, Joseph M. "[Anarchy and the Limits of Cooperation: A Realist Critique of the Newest Liberal Institutionalism](http://www.jstor.org/stable/2706787)." *International Organization* 42, no. 3 (1988): 485–507.
 
 ### Recommended
 
@@ -201,11 +201,11 @@ Governance and Order—Institutionalism and Neo-Institutionalism
 
 \[K\] Martin, Lisa L., and Beth A. Simmons. "Theories and Empirical Studies of International Institutions."
 
-Choucri, Nazli, Stuart Madnick, et al. "{{% resource_link "16386e15-5780-45f2-a97a-1dddc649a3a7" "Institutions for Cyber Security: International Responses and Global Imperatives" %}}." *Informational Technology for Development* 20, no. 2 (2014): 96–121.
+Choucri, Nazli, Stuart Madnick, et al. "[Institutions for Cyber Security: International Responses and Global Imperatives](http://dx.doi.org/10.1080/02681102.2013.836699)." *Informational Technology for Development* 20, no. 2 (2014): 96–121.
 
-Keohane, Robert O. "{{% resource_link "47ab59c3-bd41-4064-88e1-d900a09d04b7" "International Institutions: Two Approaches." %}}" *International Studies Quarterly* 32, no. 4 (1988): 379–96.
+Keohane, Robert O. "[International Institutions: Two Approaches.](http://dx.doi.org/10.2307/2600589)" *International Studies Quarterly* 32, no. 4 (1988): 379–96.
 
-Shepsle, Kenneth A. "{{% resource_link "b82e3130-171d-41eb-9b6a-86dca256c41c" "Studying Institutions: Some Lessons from the Rational Choice Approach" %}}." *Journal of Theoretical Politics* 1, no. 2 (1989): 131–47.
+Shepsle, Kenneth A. "[Studying Institutions: Some Lessons from the Rational Choice Approach](http://dx.doi.org/10.1177/0951692889001002002)." *Journal of Theoretical Politics* 1, no. 2 (1989): 131–47.
 
 ### Recommended
 
@@ -239,7 +239,7 @@ Perceptions and Expression—Constructivism
 
 \[KR\] Wendt, Alexander. "Anarchy Is What States Make of It: The Social Construction of Power Politics."
 
-Ostrom, Elinor. "{{% resource_link "3cacd963-5aed-44f8-a0f0-cc0502344662" "A Behavioral Approach to the Rational Choice Theory of Collective Action: *Presidential Address, American Political Science Association, 1997*" %}}." *American Political Science Review* 92, no. 1 (1988): 1–22.
+Ostrom, Elinor. "[A Behavioral Approach to the Rational Choice Theory of Collective Action: *Presidential Address, American Political Science Association, 1997*](http://dx.doi.org/10.2307/2585925)." *American Political Science Review* 92, no. 1 (1988): 1–22.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -305,7 +305,7 @@ Choucri, Nazli, Robert C. North, et al. "Lateral Pressure and Japan." Part I in 
 
 Levy, Jack S. "The Causes of War: A Review of Theories and Evidence." Chapter 4 in *Behavior, Society, and Nuclear War, Volume I*. Edited by Philip E. Tetlock, Jo L. Husbands, et al. University Press, 1989. ISBN: 9780195057669.
 
-Pollins, Brian M., and Randall L. Schweller. "{{% resource_link "56939283-1a9a-4a9c-82a9-1bdaca749c5b" "Linking the Levels: The Long Wave and Shifts in U. S. Foreign Policy, 1790–1993" %}}." *American Journal of Political Science* 43, no. 2 (1999): 431–64.
+Pollins, Brian M., and Randall L. Schweller. "[Linking the Levels: The Long Wave and Shifts in U. S. Foreign Policy, 1790–1993](http://dx.doi.org/10.2307/2991801)." *American Journal of Political Science* 43, no. 2 (1999): 431–64.
 
 ### Recommended
 
@@ -329,11 +329,11 @@ International Cooperation and Global Agenda
 
 \[N\] Chapter 9: "Global Competition and Violence."
 
-Waltz, Kenneth N. "The Management of International Affairs." Chapter 9 in *Theory of International Politics*. Waveland Press Incorporated, 2010. ISBN: 9781577666707. \[Preview with {{% resource_link "2dcb028e-badc-4466-b71a-e89be32c2db9" "Google Books" %}}\]
+Waltz, Kenneth N. "The Management of International Affairs." Chapter 9 in *Theory of International Politics*. Waveland Press Incorporated, 2010. ISBN: 9781577666707. \[Preview with [Google Books](http://books.google.com/books?id=OaMfAAAAQBAJ&pg=PA194#v=onepage)\]
 
 ### Recommended
 
-North, Douglass C. "Institutions and a Transaction-Cost Theory of Exchange." Chapter 7 in *Perspectives on Positive Political Economy*. Edited by James E. Alt and Kenneth A. Shepsle. Cambridge University Press, 1990. ISBN: 9780521398510. \[Preview with {{% resource_link "a564eac3-ebf0-40b1-9022-363d06ff5def" "Google Books" %}}\]
+North, Douglass C. "Institutions and a Transaction-Cost Theory of Exchange." Chapter 7 in *Perspectives on Positive Political Economy*. Edited by James E. Alt and Kenneth A. Shepsle. Cambridge University Press, 1990. ISBN: 9780521398510. \[Preview with [Google Books](http://books.google.com/books?id=wKJu6g5ovhcC&pg=PA182#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -343,19 +343,19 @@ Contending Authority—Principles and Practice
 
 ### Required
 
-Caral, Jose M. A. Emmanuel A. "{{% resource_link "70b97406-d740-4d69-8498-6025c0b3561b" "Lessons from ICANN: Is Self-Regulation of the Internet Fundamentally Flawed?" %}}" *International Journal of Law and Information Technology* 12, no. 1 (2004): 1–31.
+Caral, Jose M. A. Emmanuel A. "[Lessons from ICANN: Is Self-Regulation of the Internet Fundamentally Flawed?](http://dx.doi.org/10.1093/ijlit/12.1.1)" *International Journal of Law and Information Technology* 12, no. 1 (2004): 1–31.
 
 Cowey, Peter, and Milton Mueller. "Delegation, Networks, and Internet Governance." Chapter 9 in *Networked Politics: Agency, Power and Governance*. Edited by Miles Kahler. Cornell University Press, 2009. ISBN: 9780801474767.
 
 Hall, Rodney Bruce, and Thomas J. Biersteker, eds. "The Emergence of Private Authority in Global Governance." Chapter 1 in *The Emergence of Private Authority in Global Governance*. Cambridge University Press, 2003. ISBN: 9780521523370.
 
-Mueller, Milton, and Mawaki Chango. "{{% resource_link "30ccaf3d-cbe1-4cb8-876d-0ce36d975fbc" "Disrupting Global Governance: The Internet Whois Service, ICANN, and Privacy." %}}" *Journal of Information Technology and Politics* 5, no. 3 (2008): 303–25.
+Mueller, Milton, and Mawaki Chango. "[Disrupting Global Governance: The Internet Whois Service, ICANN, and Privacy.](http://dx.doi.org/10.1080/19331680802425503)" *Journal of Information Technology and Politics* 5, no. 3 (2008): 303–25.
 
 ### Recommended
 
 \[KR\] Dessler, David. "What's At Stake in the Agent-Structure Debate?"
 
-Ostrom, Elinor. "{{% resource_link "b4eb2f91-4516-47bb-830b-d1e1aaa7993d" "New Horizons in Institutional Analysis" %}}." *American Political Science Review* 89, no. 1 (1995): 174–8.
+Ostrom, Elinor. "[New Horizons in Institutional Analysis](http://dx.doi.org/10.2307/2083086)." *American Political Science Review* 89, no. 1 (1995): 174–8.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -371,6 +371,6 @@ Alternative Futures—21st Century Challenges
 
 ### Recommended
 
-Modelski, George. "{{% resource_link "861d7fa0-b737-45db-b21d-fb6a99986208" "Evolutionary Paradigm for Global Politics" %}}." *International Studies Quarterly* 40, no. 3 (1996): 321–42.
+Modelski, George. "[Evolutionary Paradigm for Global Politics](http://dx.doi.org/10.2307/2600714)." *International Studies Quarterly* 40, no. 3 (1996): 321–42.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
